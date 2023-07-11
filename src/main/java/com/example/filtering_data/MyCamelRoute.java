@@ -1,6 +1,5 @@
 package com.example.filtering_data;
 
-//import org.apache.camel.Header;
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
